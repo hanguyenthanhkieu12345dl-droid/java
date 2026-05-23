@@ -1,0 +1,15 @@
+<project xmlns="http://apache.org" xmlns:xsi="http://w3.org" xsi:schemaLocation="http://apache.org https://apache.org">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>mx.com.gm</groupId>
+  <artifactId>JdbcHandling</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>JdbcHandling</name>
+  <description>Jdbc Handling Project</description>
+  <dependencies>
+  	<dependency>
+  		<groupId>mysql</groupId>
+  		<artifactId>mysql-connector-java</artifactId>
+  		<version>8.0.31</version>
+  	</dependency>
+  </dependencies>
+</project>
